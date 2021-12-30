@@ -46,6 +46,6 @@ case $shell_type in
 		echo "shell_type: bash, nc,nc-exe, nc-mkfifo, ncat, ncat-exe, php-exec, php-shell_exec, php-system, php-passthru";
 		echo "";
 		echo "--------------------------------------------------------";
-		echo "Usage: gen_revshell.sh -i <IP> -p <PORT> -s <shell_type>";
+		echo "Usage: gen-revshell.sh -i <IP> -p <PORT> -s <shell_type>";
 		;;
 esac
